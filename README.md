@@ -26,8 +26,6 @@ Write in cmd to start:
 The Project is in progress. 
 
 ## Room for Improvement
-
-Room for improvement:
 - data input validation
 - export data to csv/xls
 
